@@ -1,0 +1,13 @@
+# 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 生成图像 / 标定文件
+*.jpg
+*.png
+*.npz
+
+# IDE
+.vscode/
+.idea/
